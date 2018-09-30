@@ -1,7 +1,9 @@
 # Simulate-Market
 
-This is a Java application that simulates Stock Market Returns based on the weekly percent return information of how the SP500 performed from 1/1/1950 to 8/24/2018 (3582 weeks). That data is in the text file “SP500-Weekly.txt”. The data used to
-create the weekly percent return was retrieved from Yahoo finance’s historical data for the SP500.
+This is a Java application that simulates Stock Market Returns based on the weekly percent return information of how the SP500 performed from 1/1/1950 to 8/24/2018 (3582 weeks). That data is in the text file “SP500-Weekly.txt”. The data used to create the weekly percent return was retrieved from Yahoo finance’s historical data for the SP500.
+
+The main program files are Sample.java & SimulateMarket.java
+Runs from Sample.java
 
 There are three simulation models: Linear, Distributional, and Monte Carlo.
 
