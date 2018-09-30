@@ -19,6 +19,6 @@ SimulateMarket uses an instance of Sample named “equity” for the distributio
 
 With the starting equity, increase the equity value weekly by a random sampled from the SP500 weekly return distribution and simulate 3582 weeks of stock market return. Use Java’s Random class’s nextInt(max) method to get a random weekly return from the posted weekly return data. One could sample a random value from an ArrayList of Double values name “data” with the following code snippet
 
-#### Here is a Side-By-Side of two trial runs
+#### Here is a Side-By-Side of two trial runs:
 
 ![alt text](https://github.com/AcusioCEO/Simulate-Market/blob/master/SidebySide.png)
