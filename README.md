@@ -5,7 +5,7 @@ create the weekly percent return was retrieved from Yahoo finance’s historical
 
 There are three simulation models: Linear, Distributional, and Monte Carlo.
 
-Note: Simulations assume a starting investment of $100.
+##### Note: Simulations assume a starting investment of $100.
 
 ## Linear simulation.
 
